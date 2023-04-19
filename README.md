@@ -1,5 +1,6 @@
 
 # Hi, I'm Thanh! 👋
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ThanhCao98&theme=dark&hide_border=true&border_radius=4)](https://git.io/streak-stats)
 
