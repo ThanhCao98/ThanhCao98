@@ -15,5 +15,6 @@ I'm a Frontend Developer with 2 years of experience in NuxtJS and building respo
 [![My Skills](https://skillicons.dev/icons?i=vscode,atom,postman,vercel,netlify,git,github,mysql,codepen,figma)](https://skillicons.dev)
 
 **Want to learn**
+
 [![My Skills](https://skillicons.dev/icons?i=blender,threejs,docker,solidjs,vite)](https://skillicons.dev)
 
