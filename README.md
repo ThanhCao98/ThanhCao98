@@ -23,4 +23,4 @@ I'm a ***Frontend Developer with 2 years of experience in NuxtJS*** and building
 [![My Skills](https://skillicons.dev/icons?i=blender,threejs,docker,solidjs,vite)](https://skillicons.dev)
 
 ## 📗 Learning
-<a href="https://app.daily.dev/caotrungthanh"><img src="https://api.daily.dev/devcards/3b64047c65e8443aa71d150de800dfee.png?r=l17" width="300" alt="Cao Trung Thành's Dev Card"/></a>
+
