@@ -5,7 +5,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=ThanhCao98&theme=dark&hide_border=true&border_radius=4)](https://git.io/streak-stats)
 
 ## 🌵 About Me
-I'm a ***Frontend Developer with 2 years of experience in NuxtJS*** and building responsive web design, with good knowledge of CSS and JS Frameworks. Learning new languages and technologies is what I am passionate about. I am considered a team-player because I like to help other and tend to work well within the group. I can also do some mentoring tasks and do code reviews for other team members.
+I'm a ***Frontend Developer with 3 years of experience in NuxtJS and NextJS*** and building responsive web design, with good knowledge of CSS and JS Frameworks. Learning new languages and technologies is what I am passionate about. I am considered a team-player because I like to help other and tend to work well within the group. I can also do some mentoring tasks and do code reviews for other team members.
 
 
 ## 💻 My Tech Stack
