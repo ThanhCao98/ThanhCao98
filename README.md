@@ -1,6 +1,6 @@
 
 # Hi, I'm Thanh! 👋
-[![GitHub Streak](https://streak-stats.demolab.com?user=ThanhCao98&theme=whatsapp-dark2&hide_border=true&locale=vi&short_numbers=true&date_format=j%2Fn%5B%2FY%5D&card_width=600&card_height=200)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ThanhCao98&theme=whatsapp-dark2&hide_border=true&locale=en&short_numbers=true&date_format=j%2Fn%5B%2FY%5D&card_width=600&card_height=200)](https://git.io/streak-stats)
 
 ## About Me
 I'm a ***Frontend Developer with 4 years of experience in NuxtJS and NextJS*** and building responsive web design, with good knowledge of CSS and JS Frameworks. Learning new languages and technologies is what I am passionate about. I am considered a team-player because I like to help other and tend to work well within the group. I can also do some mentoring tasks and do code reviews for other team members.
