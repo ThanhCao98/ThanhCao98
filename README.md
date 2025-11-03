@@ -1,26 +1,14 @@
 
 # Hi, I'm Thanh! 👋
+[![GitHub Streak](https://streak-stats.demolab.com?user=ThanhCao98&theme=whatsapp-dark2&hide_border=true&locale=vi&short_numbers=true&date_format=j%2Fn%5B%2FY%5D&card_width=600&card_height=200)](https://git.io/streak-stats)
 
+## About Me
+I'm a ***Frontend Developer with 4 years of experience in NuxtJS and NextJS*** and building responsive web design, with good knowledge of CSS and JS Frameworks. Learning new languages and technologies is what I am passionate about. I am considered a team-player because I like to help other and tend to work well within the group. I can also do some mentoring tasks and do code reviews for other team members.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ThanhCao98&theme=dark&hide_border=true&border_radius=4)](https://git.io/streak-stats)
-
-## 🌵 About Me
-I'm a ***Frontend Developer with 3 years of experience in NuxtJS and NextJS*** and building responsive web design, with good knowledge of CSS and JS Frameworks. Learning new languages and technologies is what I am passionate about. I am considered a team-player because I like to help other and tend to work well within the group. I can also do some mentoring tasks and do code reviews for other team members.
-
-
-## 💻 My Tech Stack
-
+## My Tech Stack
 **Language & Framework**
-
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,react,nuxtjs,nextjs,tailwind,bootstrap,typescript)](https://skillicons.dev)
-
 **Tools**
-
 [![My Skills](https://skillicons.dev/icons?i=vscode,atom,postman,vercel,netlify,git,github,mysql,codepen,figma)](https://skillicons.dev)
-
 **Want to learn**
-
 [![My Skills](https://skillicons.dev/icons?i=blender,threejs,docker,solidjs,vite)](https://skillicons.dev)
-
-## 📗 Learning
-
