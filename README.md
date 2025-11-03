@@ -8,7 +8,9 @@ I'm a ***Frontend Developer with 4 years of experience in NuxtJS and NextJS*** a
 ## My Tech Stack
 **Language & Framework**
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,react,nuxtjs,nextjs,tailwind,bootstrap,typescript)](https://skillicons.dev)
+
 **Tools**
 [![My Skills](https://skillicons.dev/icons?i=vscode,atom,postman,vercel,netlify,git,github,mysql,codepen,figma)](https://skillicons.dev)
+
 **Want to learn**
 [![My Skills](https://skillicons.dev/icons?i=blender,threejs,docker,solidjs,vite)](https://skillicons.dev)
