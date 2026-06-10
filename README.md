@@ -62,8 +62,8 @@ Beyond writing code, I contribute to team growth through mentorship and code rev
 
 | Badge | Certificate | Issuer | Date | Verify |
 |-------|-------------|--------|------|--------|
-| [![Anthropic](https://img.shields.io/badge/Anthropic-Claude_Code_in_Action-191919?style=flat-square)](https://www.anthropic.com/) | **Claude Code in Action** | Anthropic | Jun 2026 | Anthropic Academy |
-| [![HackerRank](https://img.shields.io/badge/HackerRank-Certified-00EA64?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/7AA2FF1A0BD9) | **Frontend Developer (React)** | HackerRank | Oct 28, 2025 | [7AA2FF1A0BD9](https://www.hackerrank.com/certificates/7AA2FF1A0BD9) |
+| [![Anthropic](https://img.shields.io/badge/Anthropic-Claude_Code_in_Action-191919?style=flat-square)](https://www.anthropic.com/) | **Claude Code in Action** | Anthropic | Jun 2026 | [Link](https://verify.skilljar.com/c/fnpv9uqfc6zj) |
+| [![HackerRank](https://img.shields.io/badge/HackerRank-Certified-00EA64?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/7AA2FF1A0BD9) | **Frontend Developer (React)** | HackerRank | Oct 28, 2025 | [Link](https://www.hackerrank.com/certificates/7AA2FF1A0BD9) |
 
 ---
 
